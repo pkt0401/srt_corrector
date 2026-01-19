@@ -3,7 +3,15 @@
     "この講義はRAG（Retrieval-Augmented Generation）に関する内容です。",
     "AI、機械学習、自然言語処理関連の用語が頻繁に登場します。"
   ],
-
+  "term_corrections": {
+    "Hugginf Faiss": "Hugging Face",
+    "Hugging Faiss": "Hugging Face",
+    "Face detection": "Faiss detection",
+    "face detection": "Faiss detection",
+    "フェイス detection": "Faiss detection",
+    "『": "「",
+    "』": "」"
+  },
   "custom_rules": [
     "数字に複数の読み方がある場合は、実際に発音されるひらがなに変換する",
     "漢字に複数の読み方がある場合は、文脈に合ったひらがなに変換する",
@@ -41,6 +49,20 @@
     "3090": "さんまるきゅうまる",
     "1,750億": "せんななひゃくごじゅうおく",
     "100万": "ひゃくまん",
-    "2,000": "にせん"
+    "2,000": "にせん",
+    "SemanticSearch": "セマンティックサーチ",
+    "TextSplitter": "テキストスプリッター",
+    "Splitter": "スプリッター",
+    "Separator": "セパレーター",
+    "HeaderTextSplitter": "ヘッダーテキストスプリッター",
+    "MarkdownHeaderTextSplitter": "Markdownヘッダーテキストスプリッター",
+    "CharacterTextSplitter": "キャラクタテキストスプリッター",
+    "RecursiveCharacterTextSplitter": "リカーシブキャラクタテキストスプリッター",
+    "TokenTextSplitter": "トークンテキストスプリッター",
+    "SemanticChunker": "セマンティックチャンカー",
+    "Embedding": "エンベディング",
+    "Chunk": "チャンク",
+    "Overlap": "オーバーラップ",
+    "tiktoken": "tiktoken"
   }
 }

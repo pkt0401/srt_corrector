@@ -27,8 +27,8 @@ pip install -r requirements.txt
 ```env
 AZURE_ENDPOINT=your_azure_endpoint
 AZURE_API_KEY=your_api_key
-AZURE_API_VERSION=2024-08-01-preview
-DEFAULT_MODEL=gpt-4o
+AZURE_API_VERSION=2025-04-01-preview
+DEFAULT_MODEL=gpt-5.2
 ```
 
 ## 폴더 구조
