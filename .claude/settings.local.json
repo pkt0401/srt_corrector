@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python srt_corrector.py:*)",
-      "Bash(pip install:*)"
-    ]
-  }
-}
